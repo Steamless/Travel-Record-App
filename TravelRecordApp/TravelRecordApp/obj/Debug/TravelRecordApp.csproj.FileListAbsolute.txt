@@ -1,0 +1,17 @@
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\TravelRecordApp.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\TravelRecordApp.pdb
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.csprojResolveAssemblyReference.cache
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.csproj.CoreCompileInputs.cache
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.MainPage.xaml.g.cs
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.App.xaml.g.cs
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.pdb
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.HomePage.xaml.g.cs
