@@ -13,7 +13,7 @@ namespace TravelRecordApp {
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\frankeji\\source\\repos\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp\\Ho" +
         "mePage.xaml")]
-    public partial class HomePage : global::Xamarin.Forms.ContentPage {
+    public partial class HomePage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {

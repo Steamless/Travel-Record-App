@@ -12,6 +12,10 @@ namespace TravelRecordApp
         public MainPage()
         {
             InitializeComponent();
+
+            var assembly = typeof(MainPage);
+
+            loginImage.Source = ImageSource.FromResource("TravelRecordApp.Assets.Images.ewesawslogin.png", assembly);
         }
 
         private void LogInButton_Clicked(object sender, EventArgs e)
@@ -21,8 +25,7 @@ namespace TravelRecordApp
 
             if (isEmailEmpty || isPasswordEmpty == true)
             {
-
-
+                
             } else
             {
                 Navigation.PushAsync(new HomePage());

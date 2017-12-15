@@ -6,5 +6,37 @@
 
 		<!-- Application resource dictionary -->
 
-	</Application.Resources>
+        <ResourceDictionary>
+
+            <Color
+                x:Key="ewesLight">
+                #4ab8ae
+            </Color>
+
+            <Color
+                x:Key="ewesMedium">
+                #35857d
+            </Color>
+
+            <Color
+                x:Key="ewesDark">
+                #002f38
+            </Color>
+
+            <Style
+                TargetType="Button">
+
+                <Setter 
+                    Property="BackgroundColor"
+                    Value="{StaticResource ewesLight}"/>
+
+                <Setter
+                    Property="TextColor"
+                    Value="White"/>
+
+            </Style>
+
+        </ResourceDictionary>
+
+    </Application.Resources>
 </Application>

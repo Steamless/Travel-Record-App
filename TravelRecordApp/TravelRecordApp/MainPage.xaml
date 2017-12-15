@@ -3,29 +3,37 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TravelRecordApp"
              x:Class="TravelRecordApp.MainPage">
-    
+  
     <ContentPage.Content>
 
         <StackLayout
             VerticalOptions="Center"
-            Margin="30, 300, 30, 0"> 
+            Margin="20">
+
+            <Image
+                x:Name="loginImage"
+                Aspect="AspectFit"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="CenterAndExpand"
+                HeightRequest="150"
+                Margin="0, 0, 0, 50"/>
 
             <Entry 
                 x:Name="emailEntry"
                 Placeholder="E-Mail address"
-                Keyboard="Email"/>
+                Keyboard="Email" />
             
             <Entry 
                 x:Name="passwordEntry"
                 Placeholder="Password"
-                IsPassword="True"/>
+                IsPassword="True" />
             
             <Button 
                 Margin="0, 50, 0, 0"
                 x:Name="LogInButton"
-                Text="Log in" 
-                Clicked="LogInButton_Clicked"
-                />
+                Text="Log in"
+                TextColor="White"
+                Clicked="LogInButton_Clicked" />
 
         </StackLayout>
     
