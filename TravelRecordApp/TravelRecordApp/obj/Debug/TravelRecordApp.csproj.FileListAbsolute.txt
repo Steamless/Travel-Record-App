@@ -18,3 +18,10 @@ C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\o
 C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.MapPage.xaml.g.cs
 C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.ProfilePage.xaml.g.cs
 C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.NewTravelPAge.xaml.g.cs
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\SQLite-net.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\SQLite-net.pdb
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\SQLite-net.xml
+C:\Users\frankeji\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\TravelRecordApp.csprojResolveAssemblyReference.cache

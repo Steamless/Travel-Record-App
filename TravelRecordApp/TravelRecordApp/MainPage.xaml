@@ -16,7 +16,7 @@
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="CenterAndExpand"
                 HeightRequest="150"
-                Margin="0, 0, 0, 50"/>
+                Margin="0, 0, 0, 50" />
 
             <Entry 
                 x:Name="emailEntry"
